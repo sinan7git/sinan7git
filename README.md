@@ -30,15 +30,11 @@
 
 
 
-
 <div align="center">
-
 
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinan7git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-
   <img width="49%" src="https://streak-stats.demolab.com?user=sinan7git&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
-
 
 </div>
 
@@ -122,15 +118,21 @@
 
 const skills = {
 
+
     frontend: ["React", "JavaScript", "HTML5", "CSS3", "Redux", "Tailwind CSS"],
+
 
     backend: ["Python", "Django", "Django REST Framework", "FastAPI", "Java"],
 
+
     database: ["PostgreSQL", "MySQL", "ChromaDB", "FAISS", "Firebase"],
+
 
     tools: ["Git", "Linux", "Docker", "AWS", "Nginx", "D3.js"],
 
+
     AI_ML: ["Hugging Face", "LangChain", "scikit-learn", "PyTorch", "BERT", "RAG", "Fine-tuning LLMs"],
+
 
     currentlyLearning: ["Advanced React Patterns", "System Design", "Production-level GenAI Projects"]
 
@@ -160,7 +162,9 @@ const skills = {
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
+
 ![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
@@ -170,11 +174,15 @@ const skills = {
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
+
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logoColor=white)
+
 
 ![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=white)
 
@@ -182,21 +190,29 @@ const skills = {
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
 
+
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ![BERT](https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge&logoColor=white)
 
@@ -222,9 +238,11 @@ const skills = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinanaslam2003@gmail.com)
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanaslam)
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinan7git)
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinan-code.com)
 
@@ -264,6 +282,7 @@ const skills = {
 
 
 
+
 <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinan7git/sinan7git/output/github-contribution-grid-snake-dark.svg">
@@ -293,6 +312,8 @@ const skills = {
 
 
 <br/>
+
+
 
 
 
