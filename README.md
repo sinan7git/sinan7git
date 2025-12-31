@@ -58,11 +58,12 @@
 
 ```javascript
 const skills = {
-    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Redux", "Sass"],
-    backend: ["Python", "Django", "Java"],
-    database: ["MySQL", "PostgreSQL", "Firebase"],
-    tools: ["Git", "Linux", "D3.js"],
-    currentlyLearning: ["Advanced React Patterns", "System Design"]
+    frontend: ["React", "JavaScript", "HTML5", "CSS3", "Redux", "Tailwind CSS"],
+    backend: ["Python", "Django", "Django REST Framework", "FastAPI", "Java"],
+    database: ["PostgreSQL", "MySQL", "ChromaDB", "FAISS", "Firebase"],
+    tools: ["Git", "Linux", "Docker", "AWS", "Nginx", "D3.js"],
+    AI_ML: ["Hugging Face", "LangChain", "scikit-learn", "PyTorch", "BERT", "RAG", "Fine-tuning LLMs"],
+    currentlyLearning: ["Advanced React Patterns", "System Design", "Production-level GenAI Projects"]
 };
 ```
 
@@ -76,16 +77,26 @@ const skills = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FF9900?style=for-the-badge&logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-FF6F61?style=for-the-badge&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 </div>
@@ -97,9 +108,9 @@ const skills = {
 ## 📫 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinanaslam2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinan7git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sinanaslam)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sinan7git)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sinan-code.com)
 
 </div>
 
@@ -117,7 +128,6 @@ const skills = {
 
 <div align="center">
 
-### 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sinan7git/sinan7git/output/github-contribution-grid-snake-dark.svg">
@@ -134,8 +144,6 @@ const skills = {
 **💡 "First, solve the problem. Then, write the code."** – *John Johnson*
 
 <br/>
-
-Made with ❤️ and ☕ by **Sinan Aslam**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
