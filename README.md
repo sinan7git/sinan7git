@@ -14,7 +14,16 @@
 
 </div>
 
+<div align="center">
 
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinan7git&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=sinan7git&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF&sideLabels=00F7FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak" />
+
+
+</div>
 
 <br/>
 
