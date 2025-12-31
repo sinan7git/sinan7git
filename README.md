@@ -1,23 +1,64 @@
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sinan7git&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan7git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+## 🚀 GitHub Stats & Activity
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=sinan7git&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" height="170" alt="streak graph"  />
+
+<!-- GitHub Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=sinan7git&show_icons=true&theme=gruvbox&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
+
 </div>
 
 ###
 
-<h2 align="left"></h2>
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sinan7git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph"  />
+
+<!-- GitHub Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinan7git&theme=github-compact&hide_border=false&border_radius=5" height="250" alt="activity graph" />
+
+</div>
+
+###
+
+<div align="center">
+
+<!-- Trophy Stats -->
+<img src="https://github-profile-trophy.vercel.app/?username=sinan7git&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="trophy graph" />
+
+</div>
+
+###
+
+<div align="center">
+
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=sinan7git&style=for-the-badge&color=brightgreen" alt="profile views" />
+
+</div>
+
+###
+
+<h2 align="left">📫 Connect With Me</h2>
 
 ###
 
 <div align="left">
   <a href="mailto:sinanaslam2003@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
+  </a>
 </div>
 
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBpejN5YnR2NnU1czNpZjcxNTF5anhseDgzYTB6NG5vbDk0cjkxZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kc089aLlIeUY9bfcIy/giphy.gif"  />
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
@@ -54,3 +95,9 @@
 </div>
 
 ###
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+</div>
